@@ -1,0 +1,12 @@
+# The file that will be searched for in the
+filename: listenFile
+
+# The amount of ticks between each check if the file exists
+# 1 second = 20 ticks
+checkInterval: 60
+
+# A list of all commmands that will be executed when the file is detected
+# Example:
+# commands:
+#     - 'say Hello, World'
+commands:

@@ -1,0 +1,7 @@
+name: OnFile
+version: 1.0
+main: com.themagzuz.minecraft.onfile.OnFile
+commands:
+  onfile:
+    description: Reload the OnFile config
+    usage: /onfile
